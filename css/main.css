@@ -34,10 +34,3 @@
 } */
 
 /* Navbar */
-.cs-grey {
-  color: grey;
-}
-
-.navbar a.cs-grey:hover {
-  color: white;
-}
