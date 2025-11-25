@@ -1,34 +1,34 @@
 /* DEBUG */
-[class^="container"] {
+/* [class^="container"] {
   border: 1px dashed black;
   background-color: lightblue;
   min-height: 80vh;
-}
+} */
 
-[class^="row"] {
+/* [class^="row"] {
   border: 1px dashed red;
-}
+} */
 
-[class^="col"] {
+/* [class^="col"] {
   min-height: 100px;
   background-color: #f1d2e7;
   border: 1px solid #d0a8eb;
-}
+} */
 
 /* header */
-header .nav-link {
+/* header .nav-link {
   color: blue;
-}
+} */
 
 /* section */
-section {
+/* section {
   margin-bottom: 50px;
-}
+} */
 
-#section-due .card .btn:hover {
+/* #section-due .card .btn:hover {
   background-color: #d0a8eb;
 }
 
 .ms-btn-red {
   background-color: red;
-}
+} */
