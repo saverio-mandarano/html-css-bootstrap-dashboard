@@ -15,7 +15,7 @@
   border: 1px solid #d0a8eb;
 } */
 
-/* header */
+/* altro */
 /* header .nav-link {
   color: blue;
 } */
@@ -32,3 +32,12 @@
 .ms-btn-red {
   background-color: red;
 } */
+
+/* Navbar */
+.cs-grey {
+  color: grey;
+}
+
+.navbar a.cs-grey:hover {
+  color: white;
+}
